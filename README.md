@@ -22,7 +22,7 @@ I built this project to demonstrate **Clean Architecture** patterns in modern Py
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/mohamedelfarouk/CodeRoaster.git](https://github.com/mohamedelfarouk/CodeRoaster.git)
+    git clone https://github.com/mohamedelfarouk/CodeRoaster.git
     ```
 2.  **Install dependencies:**
     ```bash
